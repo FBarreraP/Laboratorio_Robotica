@@ -135,7 +135,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 Nota = (0.195+0.105)*NotaCorte1 + (0.195+0.105)*NotaCorte2 + (0.2+0.2)*NotaCorte3
 
-**texto en negrita**
+*texto en negrita*
 
 <h3>OBSERVACIONES ⚠️</h3>
 
