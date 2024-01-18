@@ -108,42 +108,27 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (20%)</td>
-		<td>Parcial</td>
-		<td>10%</td>
+		<td>Primer (10.5%)</td>
+		<td>Guía No. 1 de laboratorio</td>
+		<td>10.5%</td>
 		<td>/02/2024</td>
-		<td rowspan="7">Presencial</td>
+		<td rowspan="4">Presencial</td>
 	</tr>
 	<tr>
-		<td>Laboratorios y/o talleres</td>
-		<td>10%</td>
-		<td>/02/2024</td>
-	</tr>
-	<tr>
-		<td rowspan="2">Segundo (30%)</td>
-		<td>Parcial</td>
-		<td>15%</td>
+		<td>Segundo (10.5%)</td>
+		<td>Guía No. 2 de laboratorio</td>
+		<td>10.5%</td>
 		<td>/02/2024</td>
 	</tr>
 	<tr>
-		<td>Laboratorios y/o talleres</td>
-		<td>15%</td>
-		<td>/02/2024</td>
-	</tr>
-	<tr>
-		<td rowspan="3">Tercer (50%)</td>
-		<td>Examen final</td>
-		<td>15%</td>
-		<td>/02/2024</td>
-	</tr>
-	<tr>
-		<td>Laboratorios y/o talleres</td>
-		<td>15%</td>
+		<td rowspan="2">Tercer (20%)</td>
+		<td>Guía No. 3 de laboratorio</td>
+		<td>5%</td>
 		<td>/02/2024</td>
 	</tr>
 	<tr>
 		<td>Proyecto</td>
-		<td>20%</td>
+		<td>15%</td>
 		<td>/02/2024</td>
 	</tr>
 </table>
