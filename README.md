@@ -17,82 +17,29 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td style="text-align:center">Fecha</td>
-		<td style="text-align:center">Horas</td>
-		<td style="text-align:center">Clase</td>
-		<td style="text-align:center">Semana</td>
-		<td style="text-align:center">Actividades</td>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>1</td>
-		<td>1</td>
-		<td>Presentación de la materia</td>
+		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>2</td>
-		<td>1</td>
-		<td>Introducción a `Python` (toolbox Peter Corke), GUI y Repositorio GitHub</td>
+		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Tutorial word para descargar el Keil</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>3</td>
-		<td>2</td>
-		<td>Traslación y rotación de un sistema coordenado</td>
+		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>4</td>
-		<td>2</td>
-		<td>Matriz de transformación homogénea (MTH)</td>
+		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>5</td>
-		<td>3</td>
-		<td>Laboratorio</td>
+		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Guía No. 2 de laboratorio<br>Desarrollo guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>6</td>
-		<td>3</td>
-		<td>Laboratorio</td>
+		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo de guía No. 2 de laboratorio</td><!--semana de parciales del primer corte-->
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>7</td>
-		<td>4</td>
-		<td>Introducción a cinemática directa</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>8</td>
-		<td>4</td>
-		<td>Método Denavit–Hartenberg (DH)</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>9</td>
-		<td>5</td>
-		<td>Parcial primer corte<td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>10</td>
-		<td>5</td>
-		<td>Laboratorio<td>
-	</tr>
+		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo de guía No. 2 de laboratorio</td>
+	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
 
@@ -100,168 +47,55 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td>Fecha</td>
-		<td>Horas</td>
-		<td>Clase</td>
-		<td>Semana</td>
-		<td>Actividades</td>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>11</td>
-		<td>6</td>
-		<td>Retroalimentación del parcial y propuesta del proyecto</td>
+		<td>11/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>12</td>
-		<td>6</td>
-		<td>GUI Python</td>
+		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>13</td>
-		<td>7</td>
-		<td>Introducción a cinematica inversa y 2R</td>
+		<td>25/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>14</td>
-		<td>7</td>
-		<td>Cinemática inversa 3R y trayectorias del 3R</td>
+		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Guía No. 4 de laboratorio<br>Desarrollo de guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>15</td>
-		<td>8</td>
-		<td>Laboratorio</td>
-	</tr>
+		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Desarrollo guía No. 4 de laboratorio</td>
+	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>16</td>
-		<td>8</td>
-		<td>Laboratorio</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>17</td>
-		<td>9</td>
-		<td>Desacople cinemático 6R</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>18</td>
-		<td>9</td>
-		<td>Jacobianos</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>19</td>
-		<td>10</td>
-		<td>Parcial segundo corte<td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>20</td>
-		<td>10</td>
-		<td>Laboratorio<td>
-	</tr>
+		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo guía No. 4 de laboratorio</td>
+	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
 
 <h4>Tercer corte</h4>
 
 <table>
-	<tr>
-		<td>Fecha</td>
-		<td>Horas</td>
-		<td>Clase</td>
-		<td>Semana</td>
-		<td>Actividades</td>
+		<tr>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>21</td>
-		<td>11</td>
-		<td>Retroalimentación del parcial y avance del proyecto</td>
+		<td>22/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>22</td>
-		<td>11</td>
-		<td>Adquisición de datos IMU</td>
+		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>23</td>
-		<td>12</td>
-		<td>Calibración IMU</td>
+		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 5 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>24</td>
-		<td>12</td>
-		<td>Conexión Rpi - STM32 - IMU</td>
+		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
+	</tr><!--Finalización de clases-->
+	<tr>
+		<td>20/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo guía No. 6 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>25</td>
-		<td>13</td>
-		<td>Filtro complementario</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>26</td>
-		<td>13</td>
-		<td>RPi con IoT</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>27</td>
-		<td>14</td>
-		<td>Laboratorio</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>28</td>
-		<td>14</td>
-		<td>Laboratorio</td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>29</td>
-		<td>15</td>
-		<td>Examen final<td>
-	</tr>
-	<tr>
-		<td>/02/2024</td>
-		<td>2</td>
-		<td>30</td>
-		<td>15</td>
-		<td>Laboratorio<td>
+		<td>27/05/2024</td> <td>2</td> <td>18</td> <td>18</td> <td>Entrega de notas finales</td>
 	</tr>
 
 </table>
-
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
@@ -328,7 +162,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/ElectivaRobotica </li>
 		<li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
 		<li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
-		<li> Los laboratorios y proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0 y las cuales tendrán una fecha fija de entrega 💥</li> 
+		<li> Los laboratorios y proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0 y las cuales tendrán una fecha fija de entrega y con orden de entrega definida por el profesor💥</li> 
 		<li> Los parciales y el examen final serán solucionados en hoja examen 📄</li> 
 		<li> Uso obligatorio de bata blanca en el laboratorio de robótica 🥼</li>
 	</ul>
