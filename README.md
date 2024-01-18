@@ -86,7 +86,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de guía No. 3 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
-		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>**FESTIVO**</td>
+		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
 		<td>20/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo de guía No. 3 de laboratorio y proyecto</td>
@@ -133,7 +133,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr>
 </table>
 
-Nota = (0.195+**0.105**)*NotaCorte1 + (0.195+**0.105**)*NotaCorte2 + (0.2+**0.2**)*NotaCorte3
+Nota = (0.195+***0.105***)*NotaCorte1 + (0.195+***0.105***)*NotaCorte2 + (0.2+***0.2***)*NotaCorte3
 
 <h3>OBSERVACIONES ⚠️</h3>
 
