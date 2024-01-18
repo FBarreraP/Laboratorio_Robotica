@@ -111,14 +111,14 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Primer (10.5%)</td>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>10.5%</td>
-		<td>/02/2024</td>
+		<td>05/02/2024<br>12/02/2024<br>19/02/2024<br>26/02/2024<br>04/03/2024</td>
 		<td rowspan="4">Presencial</td>
 	</tr>
 	<tr>
 		<td>Segundo (10.5%)</td>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>10.5%</td>
-		<td>/02/2024</td>
+		<td>18/03/2024<br>01/04/2024<br>08/04/2024<br>15/03/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Tercer (20%)</td>
@@ -129,7 +129,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Proyecto</td>
 		<td>15%</td>
-		<td>/02/2024</td>
+		<td>29/04/2024<br>06/05/2024<br>20/05/2024<br>27/05/2024</td>
 	</tr>
 </table>
 
