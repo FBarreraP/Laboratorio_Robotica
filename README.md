@@ -124,7 +124,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Tercer (20%)</td>
 		<td>Guía No. 3 de laboratorio</td>
 		<td>5%</td>
-		<td>/02/2024</td>
+		<td>29/04/2024<br>06/05/2024<br>20/05/2024<br>27/05/2024</td>
 	</tr>
 	<tr>
 		<td>Proyecto</td>
