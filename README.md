@@ -3,7 +3,7 @@ Materia: Laboratorio de robótica 🦾<br>
 Universidad: UMNG 🏫<br>
 Año: 2024 📅</h1><br>
 
-El laboratorio de robótica está enfocado al desarrollo de plataformas móviles y brazos manipuladores programados a través de STM32, operados por medio de una interfaz gráfica en Matlab o Python.
+El laboratorio de robótica está enfocado al desarrollo de plataformas móviles y brazos manipuladores programados a través de STM32, operados por medio de una interfaz gráfica en Matlab o Python. Este curso tiene un valor del 35% en la nota del primer y segundo corte del curso y del 50% en la nota del tercer corte del curso.
 
 <h1>Aula 1</h1>
 
