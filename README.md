@@ -190,6 +190,4 @@ Nota del curso = (0.195+***0.105***)*NotaCorte1 + (0.195+***0.105***)*NotaCorte2
 	<img src="https://yorobotics.co/wp-content/uploads/2022/10/BRAZO-ROBOTICO-V2.0-MEJORADO.jpg" alt="brazo robótico 5 GDL" caption="Hola"/>
 	<li> Servomotores SG90 o MG90</li>
     <img src="https://cdn.shopify.com/s/files/1/0069/0028/5529/files/Servos_fb55bae1-aef3-4bd6-bf0f-f2eff21c849a_large.jpg?v=1565803072" alt="servomotores" caption="Hola"/>
-	<li> </li>
-	<img src="" alt="plataforma diferencial" caption="Hola"/>
 </ul>
