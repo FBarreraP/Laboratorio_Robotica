@@ -23,7 +23,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y proyecto de curso</td>
+		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
@@ -35,11 +35,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
-	</tr><!--semana de parciales del primer corte-->
-	<tr>
-		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
-	</tr><!--semana de registro de notas del primer corte-->
+		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
+	</tr><!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
 </table>
 
 <h4>Segundo corte MEC A y B</h4>
@@ -49,7 +46,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Socialización guía No. 2 de laboratorio y avance de proyecto</td>
+		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
@@ -61,7 +61,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
 	</tr>
 	<tr>
-		<td>07/10/2024</td> <td></td> <td></td> <td></td> <td><br>SEMANA DE RECESO</td>
+		<td>07/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
 		<td>14/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
@@ -75,7 +75,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/10/024</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización guía No. 3 de laboratorio y avance de proyecto</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de proyecto</td>
 	</tr>
 	<tr>
 		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio y proyecto</td>
@@ -87,7 +87,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio y proyecto, y entrega de notas finales</td>
+		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
 	</tr>
 </table>
 
@@ -102,32 +102,27 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Metodología</td>
 	</tr>
 	<tr>
-		<td>Primer (10.5%)</td>
+		<td>Primer (9%)</td>
 		<td>Guía No. 1 de laboratorio</td>
-		<td>10.5%</td>
-		<td>05/02/2024<br>12/02/2024<br>19/02/2024<br>26/02/2024<br>04/03/2024</td>
-		<td rowspan="4">Presencial</td>
+		<td>9%</td>
+		<td>05/08/2024<br>12/08/2024<br>26/08/2024</td>
+		<td rowspan="3">Presencial</td>
 	</tr>
 	<tr>
-		<td>Segundo (10.5%)</td>
+		<td>Segundo (9%)</td>
 		<td>Guía No. 2 de laboratorio</td>
-		<td>10.5%</td>
-		<td>18/03/2024<br>01/04/2024<br>08/04/2024<br>15/03/2024</td>
+		<td>9%</td>
+		<td>09/09/2024<br>16/09/2024<br>23/09/2024<br>30/09/2024</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Tercer (20%)</td>
-		<td>Guía No. 3 de laboratorio</td>
-		<td>5%</td>
-		<td>29/04/2024<br>06/05/2024<br>20/05/2024<br>27/05/2024</td>
-	</tr>
-	<tr>
+		<td>Tercer (20%)</td>
 		<td>Proyecto</td>
-		<td>15%</td>
-		<td>29/04/2024<br>06/05/2024<br>20/05/2024<br>27/05/2024</td>
+		<td>20%</td>
+		<td>28/10/2024<br>18/11/2024</td>
 	</tr>
 </table>
 
-Nota del curso = (0.195+***0.105***)*NotaCorte1 + (0.195+***0.105***)*NotaCorte2 + (0.2+***0.2***)*NotaCorte3
+Nota del curso = (***0.21***+0.09)*NotaCorte1 + (***0.21***+0.09)*NotaCorte2 + (***0.2***+0.2)*NotaCorte3
 
 <h3>OBSERVACIONES ⚠️</h3>
 
