@@ -23,7 +23,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio</td>
+		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y Socialización de proyecto</td>
 	</tr>
 	<tr>
 		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
@@ -75,7 +75,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de proyecto</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
 		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
