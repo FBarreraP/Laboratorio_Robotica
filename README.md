@@ -118,7 +118,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Tercer (20%)</td>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>28/10/2024<br>18/11/2024</td>
+		<td>21/10/2024<br>28/10/2024<br>18/11/2024</td>
 	</tr>
 </table>
 
