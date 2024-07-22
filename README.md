@@ -78,7 +78,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de proyecto</td>
 	</tr>
 	<tr>
-		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3 de laboratorio y proyecto</td>
+		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
 		<td>04/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
