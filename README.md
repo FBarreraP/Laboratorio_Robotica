@@ -1,7 +1,7 @@
 <h1 align="center">Profesor: MSc. Fabián Barrera Prieto 👨‍🏫<br>
 Materia: Laboratorio de robótica 🦾<br>
 Universidad: UMNG 🏫<br>
-Año: 2024 📅</h1><br>
+Año: 2025 📅</h1><br>
 
 El laboratorio de robótica está enfocado al desarrollo de plataformas móviles y brazos manipuladores programados a través de STM32, operados por medio de una interfaz gráfica en Matlab o Python. Este curso tiene un valor del 30% en la nota del primer y segundo corte del curso y del 50% en la nota del tercer corte del curso.
 
@@ -20,22 +20,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>22/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>20/01/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y Socialización de proyecto</td>
+		<td>27/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y Socialización de proyecto</td>
 	</tr>
 	<tr>
-		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>03/02/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>10/02/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
+		<td>17/02/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
+		<td>24/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
 	</tr><!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
 </table>
 
@@ -46,25 +46,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
+		<td>03/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>10/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>17/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>24/03/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
+		<td>31/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>07/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+		<td>07/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>14/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
+		<td>14/04/2024</td> <td>2</td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -75,19 +75,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>21/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>28/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>04/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
+		<td>05/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
+		<td>12/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
+		<td>19/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
 	</tr>
 </table>
 
