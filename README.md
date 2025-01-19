@@ -46,25 +46,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>03/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
+		<td>03/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>10/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>10/03/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>17/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>17/03/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>24/03/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>FESTIVO</td>
+		<td>24/03/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>31/03/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>31/03/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>07/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
+		<td>07/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>14/04/2024</td> <td>2</td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>14/04/2025</td> <td>2</td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -75,19 +75,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>21/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>28/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>28/04/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>05/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>05/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>12/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>12/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>19/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
+		<td>19/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
 	</tr>
 </table>
 
