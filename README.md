@@ -23,7 +23,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>20/01/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>27/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y Socialización de proyecto</td>
+		<td>27/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
 		<td>03/02/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
@@ -58,7 +58,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>24/03/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>31/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>31/03/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
 		<td>07/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
@@ -105,20 +105,20 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Primer (9%)</td>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>9%</td>
-		<td>05/08/2024<br>12/08/2024<br>26/08/2024</td>
+		<td>03/02/2025<br>10/02/2025<br>17/02/2025<br>24/02/2025</td>
 		<td rowspan="3">Presencial</td>
 	</tr>
 	<tr>
 		<td>Segundo (9%)</td>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>9%</td>
-		<td>09/09/2024<br>16/09/2024<br>23/09/2024<br>30/09/2024</td>
+		<td>10/03/2025<br>17/03/2025<br>31/03/2025<br>07/04/2025</td>
 	</tr>
 	<tr>
 		<td>Tercer (20%)</td>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>21/10/2024<br>28/10/2024<br>18/11/2024</td>
+		<td>21/04/2025<br>28/04/2025<br>05/05/2025<br>12/05/2025<br>19/05/2025</td>
 	</tr>
 </table>
 
