@@ -173,7 +173,15 @@ Nota del curso = (***0.21***+0.09)*NotaCorte1 + (***0.21***+0.09)*NotaCorte2 + (
 	<figcaption>Fuente: https://www.st.com/en/ecosystems/stm32-nucleo.html</figcaption>
 	</div>
 	<li> Brazo robótico 5 GDL</li>
-	<img src="https://yorobotics.co/wp-content/uploads/2022/10/BRAZO-ROBOTICO-V2.0-MEJORADO.jpg" alt="brazo robótico 5 GDL" caption="Hola"/>
+	<div align="center">
+	<img src="image-2.png" alt="Brazo 5 GDL"/>
+	<br>
+	<figcaption>Fuente: https://yorobotics.co/producto/brazo-robotico-arduino-6-servos-5-dof-grados-libertad-mg90/</figcaption>
+	</div>
 	<li> Servomotores</li>
-    <img src="https://cdn.shopify.com/s/files/1/0069/0028/5529/files/Servos_fb55bae1-aef3-4bd6-bf0f-f2eff21c849a_large.jpg?v=1565803072" alt="servomotores" caption="Hola"/>
+	<div align="center">
+	<img src="image-1.png" alt="Servos"/>
+	<br>
+	<figcaption>Fuente: https://www.arcaelectronica.com/blogs/tutoriales/servomotores-arduino-sg90-mg90-mg995-mg996</figcaption>
+	</div>
 </ul>
