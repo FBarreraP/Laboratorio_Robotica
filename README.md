@@ -64,7 +64,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>07/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>14/04/2025</td> <td>2</td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>14/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
