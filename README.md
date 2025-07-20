@@ -139,7 +139,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>03/10/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
 	</tr>
 	<tr>
-		<td>10/10/2025</td> <td>2</td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+		<td>10/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
 	</tr><!--semana de parciales del segundo corte-->
 </table>
 
@@ -165,11 +165,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>14/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>21/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
+		<td>21/11/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
 	</tr>
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
+
+<h4>MEC B</h4>
 
 <table>
 	<tr>
@@ -183,20 +185,51 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Primer (9%)</td>
 		<td>Guía No. 1 de laboratorio</td>
 		<td>9%</td>
-		<td>03/02/2025<br>10/02/2025<br>17/02/2025<br>24/02/2025</td>
+		<td>04/08/2025<br>11/08/2025<br>25/08/2025</td>
 		<td rowspan="3">Presencial</td>
 	</tr>
 	<tr>
 		<td>Segundo (9%)</td>
 		<td>Guía No. 2 de laboratorio</td>
 		<td>9%</td>
-		<td>10/03/2025<br>17/03/2025<br>31/03/2025<br>07/04/2025</td>
+		<td>08/09/2025<br>15/09/2025<br>22/09/2025<br>29/09/2025</td>
 	</tr>
 	<tr>
 		<td>Tercer (20%)</td>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>21/04/2025<br>28/04/2025<br>05/05/2025<br>12/05/2025<br>19/05/2025</td>
+		<td>20/10/2025<br>27/10/2025<br>10/11/2025</td>
+	</tr>
+</table>
+
+<h4>MEC A</h4>
+
+<table>
+	<tr>
+		<td>Corte</td>
+		<td>Actividad</td>
+		<td>Porcentaje 💯</td>
+		<td>Fecha</td>
+		<td>Metodología</td>
+	</tr>
+	<tr>
+		<td>Primer (9%)</td>
+		<td>Guía No. 1 de laboratorio</td>
+		<td>9%</td>
+		<td>08/08/2025<br>15/08/2025<br>22/08/2025</td>
+		<td rowspan="3">Presencial</td>
+	</tr>
+	<tr>
+		<td>Segundo (9%)</td>
+		<td>Guía No. 2 de laboratorio</td>
+		<td>9%</td>
+		<td>05/09/2025<br>12/09/2025<br>19/09/2025<br>26/09/2025<br>03/10/2025</td>
+	</tr>
+	<tr>
+		<td>Tercer (20%)</td>
+		<td>Proyecto</td>
+		<td>20%</td>
+		<td>17/10/2025<br>24/10/2025<br>31/10/2025<br>07/11/2025<br>14/11/2025<br>21/11/2025</td>
 	</tr>
 </table>
 
