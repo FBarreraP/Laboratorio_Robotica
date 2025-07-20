@@ -13,81 +13,159 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>Primer corte MEC A y B</h4>
+<h4>Primer corte MEC B</h4>
 
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>20/01/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>21/07/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>27/01/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y proyecto</td>
+		<td>28/07/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y proyecto</td>
 	</tr>
 	<tr>
-		<td>03/02/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>04/08/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>10/02/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>11/08/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>17/02/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>18/08/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>24/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
+		<td>25/08/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
 	</tr><!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
 </table>
 
-<h4>Segundo corte MEC A y B</h4>
+<h4>Segundo corte MEC B</h4>
 
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>03/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
+		<td>01/09/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>10/03/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>08/09/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>17/03/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>15/09/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>24/03/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>FESTIVO</td>
+		<td>22/09/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>31/03/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>29/09/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
 	</tr>
 	<tr>
-		<td>07/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
+		<td>06/10/2025</td> <td>2</td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
 	</tr><!--semana de parciales del segundo corte-->
-	<tr>
-		<td>14/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
-	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
-<h4>Tercer corte MEC A y B</h4>
+<h4>Tercer corte MEC B</h4>
 
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>13/10/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>28/04/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>20/10/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>05/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>27/10/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
-		<td>12/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>03/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>19/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
+		<td>10/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
+	</tr>
+	<tr>
+		<td>17/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
+	</tr>
+</table>
+
+<h4>Primer corte MEC A</h4>
+
+<table>
+	<tr>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
+	</tr>
+	<tr>
+		<td>25/07/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+	</tr>
+	<tr>
+		<td>01/08/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y proyecto</td>
+	</tr>
+	<tr>
+		<td>08/08/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>15/08/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>22/08/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
+	</tr><!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
+</table>
+
+<h4>Segundo corte MEC A</h4>
+
+<table>
+	<tr>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
+	</tr>
+	<tr>
+		<td>29/08/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>05/09/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>12/09/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>19/09/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>26/09/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+	</tr>
+	<tr>
+		<td>03/10/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
+	</tr>
+	<tr>
+		<td>10/10/2025</td> <td>2</td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+	</tr><!--semana de parciales del segundo corte-->
+</table>
+
+<h4>Tercer corte MEC A</h4>
+
+<table>
+	<tr>
+		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
+	</tr>
+	<tr>
+		<td>17/10/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de proyecto</td>
+	</tr>
+	<tr>
+		<td>24/10/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
+	</tr>
+	<tr>
+		<td>31/10/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
+	</tr>
+	<tr>
+		<td>07/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
+	</tr><!--Finalización de clases-->
+	<tr>
+		<td>14/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+	</tr>
+	<tr>
+		<td>21/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
 	</tr>
 </table>
 
