@@ -87,7 +87,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>10/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
 	</tr>
 	<tr>
-		<td>17/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
+		<td>17/11/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
 	</tr>
 </table>
 
