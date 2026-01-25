@@ -153,7 +153,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>24/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>01/05/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 3</td>
+		<td>01/05/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
 		<td>08/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3</td>
@@ -162,7 +162,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>15/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>22/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
+		<td>22/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
 		<td>29/05/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto<br>Entrega de notas finales</td>
@@ -171,67 +171,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
-<h4>MEC B</h4>
+<h4>MEC B y C</h4>
 
 <table>
 	<tr>
-		<td>Corte</td>
-		<td>Actividad</td>
-		<td>Porcentaje 💯</td>
-		<td>Fecha</td>
-		<td>Metodología</td>
+		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td>Primer (9%)</td>
-		<td>Guía No. 1 de laboratorio</td>
-		<td>9%</td>
-		<td>04/08/2026<br>11/08/2026<br>25/08/2026</td>
-		<td rowspan="3">Presencial</td>
+		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>09/02/2026<br>16/02/2026<br>23/02/2026</td> <td rowspan="3">Presencial</td>
 	</tr>
 	<tr>
-		<td>Segundo (9%)</td>
-		<td>Guía No. 2 de laboratorio</td>
-		<td>9%</td>
-		<td>08/09/2026<br>15/09/2026<br>22/09/2026<br>29/09/2026</td>
+		<td>Segundo (9%)</td> <td>Guía No. 2 de laboratorio</td> <td>9%</td> <td>09/03/2026<br>16/03/2026<br>06/04/2026<br>13/04/2026</td>
 	</tr>
 	<tr>
-		<td>Tercer (20%)</td>
-		<td>Proyecto</td>
-		<td>20%</td>
-		<td>20/10/2026<br>27/10/2026<br>10/11/2026</td>
+		<td rowspan="2">Tercer (20%)</td> <td>Guía No. 3 de laboratorio</td> <td>7.5%</td> <td>27/04/2026<br>04/05/2026<br>
+									      <td>Proyecto</td> <td>12.5%</td> <td>11/05/2026<br>25/05/2026</td>
 	</tr>
 </table>
 
-<h4>MEC A</h4>
 
-<table>
-	<tr>
-		<td>Corte</td>
-		<td>Actividad</td>
-		<td>Porcentaje 💯</td>
-		<td>Fecha</td>
-		<td>Metodología</td>
-	</tr>
-	<tr>
-		<td>Primer (9%)</td>
-		<td>Guía No. 1 de laboratorio</td>
-		<td>9%</td>
-		<td>08/08/2026<br>15/08/2026<br>22/08/2026</td>
-		<td rowspan="3">Presencial</td>
-	</tr>
-	<tr>
-		<td>Segundo (9%)</td>
-		<td>Guía No. 2 de laboratorio</td>
-		<td>9%</td>
-		<td>05/09/2026<br>12/09/2026<br>19/09/2026<br>26/09/2026<br>03/10/2026</td>
-	</tr>
-	<tr>
-		<td>Tercer (20%)</td>
-		<td>Proyecto</td>
-		<td>20%</td>
-		<td>17/10/2026<br>24/10/2026<br>31/10/2026<br>07/11/2026<br>14/11/2026<br>21/11/2026</td>
-	</tr>
-</table>
 
 Nota del curso = (***0.21***+0.09)*NotaCorte1 + (***0.21***+0.09)*NotaCorte2 + (***0.2***+0.2)*NotaCorte3
 
