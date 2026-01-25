@@ -13,7 +13,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>Primer corte MEC B</h4>
+<h4>Primer corte MEC B y C</h4>
 
 <table>
 	<tr>
@@ -36,7 +36,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr> <!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
 </table>
 
-<h4>Segundo corte MEC B</h4>
+<h4>Segundo corte MEC B y C</h4>
 
 <table>
 	<tr>
@@ -55,17 +55,17 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>23/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>30/03/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>SEMANA SANTA</td>
+		<td>30/03/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>06/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2</td>
+		<td>06/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
-		<td>13/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de guía No. 2<br>Entrega de notas segundo corte</td>
+		<td>13/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2<br>Entrega de notas segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 </table>
 
-<h4>Tercer corte MEC B</h4>
+<h4>Tercer corte MEC B y C</h4>
 
 <table>
 	<tr>
@@ -98,20 +98,20 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>25/07/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>30/01/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>01/08/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio y proyecto</td>
+		<td>06/03/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio<br>Socialización proyecto</td>
 	</tr>
 	<tr>
-		<td>08/08/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>13/03/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>15/08/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>20/03/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>22/08/2026</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1 y entrega de notas primer corte</td>
-	</tr><!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
+		<td>27/03/2026</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1<br>Entrega de notas primer corte</td>
+	</tr> <!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
 </table>
 
 <h4>Segundo corte MEC A</h4>
@@ -121,25 +121,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>29/08/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2 de laboratorio</td>
+		<td>06/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>05/09/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>13/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>12/09/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>20/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>19/09/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>27/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>26/09/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>03/03/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>03/10/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2 y entrega de notas segundo corte</td>
+		<td>10/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
-		<td>10/10/2026</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+		<td>17/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Desarrollo y/o entrega de guía No. 2<br>Entrega de notas segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 </table>
 
@@ -150,22 +150,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>17/10/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>24/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización guía No. 3 de laboratorio</td>
 	</tr>
 	<tr>
-		<td>24/10/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>01/05/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 3</td>
 	</tr>
 	<tr>
-		<td>31/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>08/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3</td>
 	</tr>
 	<tr>
-		<td>07/11/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>15/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>14/11/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>22/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>21/11/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto y entrega de notas finales</td>
+		<td>29/05/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo y/o entrega de proyecto<br>Entrega de notas finales</td>
 	</tr>
 </table>
 
