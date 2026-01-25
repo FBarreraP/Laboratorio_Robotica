@@ -159,7 +159,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>08/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3</td>
 	</tr>
 	<tr>
-		<td>15/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>15/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo y/o entrega de guía No. 3</td>
 	</tr><!--Finalización de clases-->
 	<tr>
 		<td>22/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
