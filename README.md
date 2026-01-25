@@ -23,13 +23,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/01/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>02/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio<br>Socialización proyecto</td>
+		<td>02/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1<br>Socialización proyecto</td>
 	</tr>
 	<tr>
-		<td>09/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>09/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1</td>
 	</tr>
 	<tr>
-		<td>16/02/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>16/02/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1</td>
 	</tr>
 	<tr>
 		<td>23/02/2026</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1<br>Entrega de notas primer corte</td>
@@ -43,13 +43,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>02/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2 de laboratorio</td>
+		<td>02/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2</td>
 	</tr>
 	<tr>
-		<td>09/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>09/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
-		<td>16/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>16/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
 		<td>23/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>FESTIVO</td>
@@ -72,7 +72,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización guía No. 3 de laboratorio</td>
+		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización guía No. 3</td>
 	</tr>
 	<tr>
 		<td>27/04/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Desarrollo y/o entrega de guía No. 3</td>
@@ -101,13 +101,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>30/01/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>06/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1 de laboratorio<br>Socialización proyecto</td>
+		<td>06/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Socialización guía No. 1<br>Socialización proyecto</td>
 	</tr>
 	<tr>
-		<td>13/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>13/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1</td>
 	</tr>
 	<tr>
-		<td>20/02/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1 de laboratorio</td>
+		<td>20/02/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1</td>
 	</tr>
 	<tr>
 		<td>27/02/2026</td> <td>2</td> <td>5</td> <td>5</td> <td>Desarrollo y/o entrega de guía No. 1<br>Entrega de notas primer corte</td>
@@ -121,16 +121,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>06/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2 de laboratorio</td>
+		<td>06/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Socialización guía No. 2</td>
 	</tr>
 	<tr>
-		<td>13/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>13/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
-		<td>20/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>20/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
-		<td>27/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2 de laboratorio</td>
+		<td>27/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo y/o entrega de guía No. 2</td>
 	</tr>
 	<tr>
 		<td>03/03/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
@@ -150,7 +150,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>24/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización guía No. 3 de laboratorio</td>
+		<td>24/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Socialización guía No. 3</td>
 	</tr>
 	<tr>
 		<td>01/05/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>FESTIVO</td>
