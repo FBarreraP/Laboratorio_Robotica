@@ -78,13 +78,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>19/10/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización guía No. 3</td>
 	</tr>
 	<tr>
-		<td>26/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3</td>
+		<td>26/10/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo y/o entrega de guía No. 3<br>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 	<tr>
 		<td>02/11/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>09/11/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto<br>Entrega de notas finales</td>
+		<td>09/11/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo y/o entrega de guía No. 3<br>Desarrollo y/o entrega de proyecto<br>Entrega de notas finales</td>
 	</tr>
 	<tr>
 		<td>16/11/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
@@ -171,23 +171,23 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
-<h4>MEC B y C</h4>
+<h4>MEC B</h4>
 
 <table>
 	<tr>
 		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>09/02/2026<br>16/02/2026<br>23/02/2026</td> <td rowspan="4">Presencial</td>
+		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>10/08/2026<br>24/08/2026</td> <td rowspan="4">Presencial</td>
 	</tr>
 	<tr>
-		<td>Segundo (9%)</td> <td>Guía No. 2 de laboratorio</td> <td>9%</td> <td>09/03/2026<br>16/03/2026<br>06/04/2026<br>13/04/2026</td>
+		<td>Segundo (9%)</td> <td>Guía No. 2 de laboratorio</td> <td>9%</td> <td>07/09/2026<br>14/09/2026<br>21/09/2026<br>28/09/2026</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Tercer (20%)</td> <td>Guía No. 3 de laboratorio</td> <td>7.5%</td> <td>27/04/2026<br>04/05/2026<br> 
+		<td rowspan="2">Tercer (20%)</td> <td>Guía No. 3 de laboratorio</td> <td>7.5%</td> <td>26/10/2026<br>09/11/2026</td> 
 	</tr>
 	<tr>
-		<td>Proyecto</td> <td>12.5%</td> <td>11/05/2026<br>25/05/2026</td>
+		<td>Proyecto</td> <td>12.5%</td> <td>26/10/2026<br>09/11/2026</td> 
 	</tr>
 </table>
 
