@@ -198,16 +198,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>13/02/2026<br>20/02/2026<br>27/02/2026</td> <td rowspan="4">Presencial</td>
+		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>14/08/2026<br>21/08/2026</td> <td rowspan="4">Presencial</td>
 	</tr>
 	<tr>
-		<td>Segundo (9%)</td> <td>Guía No. 2 de laboratorio</td> <td>9%</td> <td>13/03/2026<br>20/03/2026<br>27/03/2026<br>10/04/2026<br>17/04/2026</td>
+		<td>Segundo (9%)</td> <td>Guía No. 2 de laboratorio</td> <td>9%</td> <td>04/09/2026<br>11/09/2026<br>18/09/2026<br>25/09/2026<br>02/10/2026</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Tercer (20%)</td> <td>Guía No. 3 de laboratorio</td> <td>7.5%</td> <td>08/05/2026<br>15/05/2026<br> 
+		<td rowspan="2">Tercer (20%)</td> <td>Guía No. 3 de laboratorio</td> <td>7.5%</td> <td>23/10/2026<br>30/10/2026<br>06/11/2026<br> 
 	</tr>
 	<tr>
-		<td>Proyecto</td> <td>12.5%</td> <td>22/05/2026<br>29/05/2026</td>
+		<td>Proyecto</td> <td>12.5%</td> <td>13/11/2026<br>20/11/2026</td>
 	</tr>
 </table>
 
