@@ -23,10 +23,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>20/07/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>27/07/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Presentación de la materia</td>
+		<td>27/07/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Presentación de la materia<br>Socialización guía No. 1<br>Socialización proyecto</td>
 	</tr>
 	<tr>
-		<td>03/08/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Socialización guía No. 1<br>Socialización proyecto</td>
+		<td>03/08/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Desarrollo y/o entrega de guía No. 1</td>
 	</tr>
 	<tr>
 		<td>10/08/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Desarrollo y/o entrega de guía No. 1</td>
