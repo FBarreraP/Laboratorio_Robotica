@@ -178,7 +178,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>10/08/2026<br>24/08/2026</td> <td rowspan="4">Presencial</td>
+		<td>Primer (9%)</td> <td>Guía No. 1 de laboratorio</td> <td>9%</td> <td>03/08/2026<br>10/08/2026<br>24/08/2026</td> <td rowspan="4">Presencial</td>
 	</tr>
 	<tr>
 		<td>Segundo (9%)</td> <td>Guía No. 2 de laboratorio</td> <td>9%</td> <td>07/09/2026<br>14/09/2026<br>21/09/2026<br>28/09/2026</td>
